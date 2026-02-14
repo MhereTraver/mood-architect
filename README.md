@@ -4,8 +4,8 @@ A full-stack AI-powered web application that generates personalized therapeutic 
 
 ## 🔗 Live Demo
 
-- **Frontend**: [https://your-app.vercel.app](https://your-app.vercel.app) _(Update after deployment)_
-- **Backend API**: [https://your-app.onrender.com](https://your-app.onrender.com) _(Update after deployment)_
+   - **Frontend**: https://mood-architect-woad.vercel.app
+   - **Backend API**: https://mood-architect-backend-oybt.onrender.com
 
 ## 📋 Features
 
